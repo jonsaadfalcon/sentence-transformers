@@ -16,6 +16,7 @@ from .CoSENTLoss import CoSENTLoss
 from .OnlineContrastiveLoss import OnlineContrastiveLoss
 from .MegaBatchMarginLoss import MegaBatchMarginLoss
 from .DenoisingAutoEncoderLoss import DenoisingAutoEncoderLoss
+from .OrthogonalProjectionLoss import OrthogonalProjectionLoss
 
 # Triplet losses
 from .BatchHardTripletLoss import BatchHardTripletLoss, BatchHardTripletLossDistanceFunction
